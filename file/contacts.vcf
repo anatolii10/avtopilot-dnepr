@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Автопилот Днепр (Трезвый водитель)
+N:Днепр;Автопилот;;;(Трезвый водитель)
+EMAIL;TYPE=INTERNET:avtopilotdneprone@gmail.com
+TEL:+380 93 858 4680
+TEL:+380 98 017 4513
+TEL:+380 66 094 0159
+ADR:;;;Днепропетровск;;;
+item1.URL:https\://www.facebook.com/avtopilot.dnepr
+item1.X-ABLabel:Facebook
+item2.URL:www.instagram.com/autopilot_dnepr
+item2.X-ABLabel:Instagram
+END:VCARD
